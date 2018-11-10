@@ -1,0 +1,15 @@
+.jeopardy-card {
+    display: flex;
+    width: 120px;
+    height: 80px;
+    background-color: darkcyan;
+
+    justify-content: center;
+    flex-direction: column;
+    
+    
+    span{
+        align-content: center;
+        text-align: center;
+    }
+}
